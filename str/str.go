@@ -1,5 +1,5 @@
 package str
 
 func Rand() string {
-	return "rand"
+	return "rand-v4"
 }
